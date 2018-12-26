@@ -1,0 +1,11 @@
+C:\Source\UDP\UDPSensorReciever\UDPSensorReciever\bin\Debug\netcoreapp2.1\UDPSensorReciever.deps.json
+C:\Source\UDP\UDPSensorReciever\UDPSensorReciever\bin\Debug\netcoreapp2.1\UDPSensorReciever.runtimeconfig.json
+C:\Source\UDP\UDPSensorReciever\UDPSensorReciever\bin\Debug\netcoreapp2.1\UDPSensorReciever.runtimeconfig.dev.json
+C:\Source\UDP\UDPSensorReciever\UDPSensorReciever\bin\Debug\netcoreapp2.1\UDPSensorReciever.dll
+C:\Source\UDP\UDPSensorReciever\UDPSensorReciever\bin\Debug\netcoreapp2.1\UDPSensorReciever.pdb
+C:\Source\UDP\UDPSensorReciever\UDPSensorReciever\obj\Debug\netcoreapp2.1\UDPSensorReciever.csprojAssemblyReference.cache
+C:\Source\UDP\UDPSensorReciever\UDPSensorReciever\obj\Debug\netcoreapp2.1\UDPSensorReciever.csproj.CoreCompileInputs.cache
+C:\Source\UDP\UDPSensorReciever\UDPSensorReciever\obj\Debug\netcoreapp2.1\UDPSensorReciever.AssemblyInfoInputs.cache
+C:\Source\UDP\UDPSensorReciever\UDPSensorReciever\obj\Debug\netcoreapp2.1\UDPSensorReciever.AssemblyInfo.cs
+C:\Source\UDP\UDPSensorReciever\UDPSensorReciever\obj\Debug\netcoreapp2.1\UDPSensorReciever.dll
+C:\Source\UDP\UDPSensorReciever\UDPSensorReciever\obj\Debug\netcoreapp2.1\UDPSensorReciever.pdb
